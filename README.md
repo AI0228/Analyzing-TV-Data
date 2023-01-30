@@ -1,5 +1,5 @@
 # Analyzing-TV-Data
-Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl!
+Use data manipulation and visualization to explore a television broadcast dataset: The Super Bowl!
 
 ## Description
 In this project, I generated insights into game outcomes, viewership, and even halftime shows by investigating the dataset.
